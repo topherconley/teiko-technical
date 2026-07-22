@@ -1,0 +1,5 @@
+scenario,n_per_arm,alpha,cohens_d,power
+"this study, alpha = 0.05",325,0.05,0.18638364784830214,0.6600019050728279
+"this study, alpha = 0.01 (5 populations)",325,0.01,0.18638364784830214,0.41840544550599423
+"required for 80% power, alpha = 0.01",674,0.01,0.18638364784830214,0.8
+"required for 90% power, alpha = 0.01",858,0.01,0.18638364784830214,0.9
